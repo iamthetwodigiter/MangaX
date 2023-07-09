@@ -1,1 +1,1 @@
-# MangaX
+# MangaX - Manga Downloader
