@@ -1,0 +1,7 @@
+bs4==0.0.1
+img2pdf==0.4.4
+Pillow==9.4.0
+pyfiglet==0.8.post1
+PyPDF2==3.0.1
+requests==2.22.0
+rich==13.2.0
