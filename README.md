@@ -1,4 +1,4 @@
-# MangaX - Manga Downloader
+# MangaX - Manga Downloader by [iamthetwodigiter](github.com/iamthetwodigiter)
 
 ## Use and Features
 
@@ -14,3 +14,6 @@
   **Note:** Both `-start` and `-end` can be used at the same time.
 
   ## Contact [thetwodigiter](https:telegram.me/thetwodigiter) in case of any issues or to request features.
+
+
+  ## NOTE: Download the entire repository as zip and keep the *binaries* folder and *MangaX - Manga Downloader.exe* file in the same folder. Else the downloader will throw error.
